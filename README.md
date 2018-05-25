@@ -1,4 +1,4 @@
-# post-injector-wp
+# WP Post Injector
 1. Inject content such as embedds, Ad banners, Ad links in WordPress posts and pages.
 2. The content can be injected at different paragraph positions in all posts.
 
